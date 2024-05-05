@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "wir-fuer-hier",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
